@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Libros>
+        <libro id="L1234" tipo_clase= "novela" num_pag_libro="358">
+            <titulo>La catedral del mar</titulo>
+            <indice>
+                Primera Parte - Siervos de la tierra
+                1.  3
+                2. 11
+                3. 15
+                4. 21
+                5. 28
+                Segunda Parte- Siervos de la nobleza
+                6. 31
+                7. 40
+                8. 47
+                9. 51
+                10. 55
+                11. 61
+                12. 67
+                13. 72
+                14. 80
+                15. 89
+                16. 93
+                17. 100
+                18. 105
+                19. 116
+                20. 121
+                Tercera Parte - Siervos de la pasión
+                21. 128
+                22. 132
+                23. 136
+                24. 140
+                25. 143
+                26. 149
+                27. 155
+                28. 162
+                29. 169
+                30. 173
+                31. 178
+                32. 187
+                33. 193
+                34. 196
+                35. 202
+                36. 206
+                37. 213
+                38. 220
+                39. 230
+                40. 236
+                41. 241
+                42. 243
+                43. 246
+                44. 251
+                45. 256
+                Cuarta Parte - Siervos del destino
+                46. 266
+                47. 274
+                48. 280
+                49. 289
+                50. 292
+                51. 297
+                52. 300
+                53. 309
+                54. 320
+                55. 326
+                56. 335
+                57. 339
+                58. 345
+                59. 348
+                60. 351
+                Notas del autor 354
+            </indice>
+            <sinopsis>Una catedral construida por el pueblo y para el pueblo en la  Barcelona medieval es el escenario de una apasionante historia de intriga,
+                violencia y pasión.Siglo XIV. La ciudad de Barcelona se encuentra en su momento de  mayor prosperidad; ha crecido hacia la Ribera,
+                el humilde barrio de los  pescadores, cuyos habitantes deciden construir, con el dinero de unos y  el esfuerzo de otros, el mayor templo mariano
+                jamás conocido: Santa María de la Mar. Una construcción que es paralela a la azarosa historia de Arnau, un  siervo de la tierra que huye de los
+                abusos de su señor feudal y  se  refugia en Barcelona, donde se convierte en ciudadano y, con ello, en hombre libre.
+                El joven Arnau trabaja como palafrenero, estibador, soldado y cambista.  Una vida extenuante, siempre al amparo de la catedral de la  mar, 
+                que le  iba a llevar de la miseria del fugitivo a la nobleza y la riqueza. Pero  con esta posición privilegiada también le llega la envidia de sus pares,  que urden una sórdida conjura que pone su vida en manos de la Inquisición...
+                La catedral del mar es una trama en la que se entrecruzan lealtad  y venganza, traición y amor, guerra y peste, en un mundo marcado por la  intolerancia
+                 religiosa, la ambición material y la segregación social.Todo ello convierte esta obra no sólo en una novela absorbente, sino  también en la más 
+                 fascinante y ambiciosa recreación de las luces y sombras de la época feudal.</sinopsis>
+            <capitulos>
+                <capitulo num_pag_cap="8">
+                    <titulo>1.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="4">
+                    <titulo>2.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="6">
+                    <titulo>3.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="7">
+                    <titulo>4.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="3">
+                    <titulo>5.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+            </capitulos>
+        </libro>
+        <libro id="L2345" tipo_clase= "novela" num_pag_libro="187">
+            <titulo>Pride and Prejudice</titulo>
+            <indice>
+                Capítulo I
+                Capítulo II
+                Capítulo III
+                Capítulo IV
+                Capítulo V
+                Capítulo VI
+                Capítulo VII
+                Capítulo VIII
+                Capítulo IX
+                Capítulo X
+                Capítulo XI
+                Capítulo XII
+                Capítulo XIII
+                Capítulo XIV
+                Capítulo XV
+                Capítulo XVI
+                Capítulo XVII
+                Capítulo XVIII
+                Capítulo XIX
+                Capítulo XX
+                CapítulO XXI
+                Capítulo XXII
+                Capítulo XXIII
+                Capítulo XIV
+                Capítulo XXV
+                Capítulo XVI
+                Capítulo XVII
+                Capítulo XVIII
+                Capítulo XXIX
+                Capítulo XXX
+                Capítulo XXXI
+                Capítulo XXXII
+                Capítulo XXXIII
+                Capítulo XXXIV
+                Capítulo XXXV
+                Capítulo XXXVI
+                Capítulo XXXVII
+                Capítulo XXXVIII
+                Capítulo XXXIX
+                Capítulo XLI
+                Capítulo XLII
+                Capítulo XLII
+                Capítulo XLIII
+                Capítulo XLIV
+                Capítulo XLV
+                Capítulo XLVI
+                Capítulo XLVII
+                Capítulo XLVIII
+                Capítulo XLIX
+                Capítulo L
+                Capítulo LI
+                Capítulo LII
+                Capítulo LIII
+                Capítulo LIV
+                Capítulo LV
+                Capítulo LVI
+                Capítulo LVII
+                Capítulo LVIII
+                Capítulo LIX
+                Capítulo LX
+                Capítulo LXI
+            </indice>
+            <sinopsis> En mitad de la campiña inglesa de finales del siglo XVIII, la Sra. Bennet se entera de una gran noticia: un joven rico y soltero acaba de mudarse
+                 a Netherfield Park, una mansión vecina. Madre de cinco hijas sin dote, su gran objetivo es que una de ellas se case con él.
+
+                El recién llegado Sr. Bingley parece inclinarse por la hermana mayor Jane, una joven de belleza tranquila, durante el primer baile que tiene lugar en la 
+                mansión. Por desgracia, su todavía más elegible amigo, el apuesto y orgulloso Sr. Fitzwilliam Darcy, no tiene la menor intención de rebajarse hablando 
+                con provincianas y rehúsa bailar con Elizabeth Bennet, sin darse cuenta de que Elizabeth oye su comentario y se siente insultada.
+                
+                La arrogante hermana del Sr. Bingley invita a Jane a la mansión y la Sra. Bennet urde una treta: manda a su hija a caballo bajo la lluvia para que tenga 
+                que pasar la noche allí. El truco funciona ya que la chica cae enferma y Elizabeth debe ir a cuidarla. Al conocerla mejor, Darcy empieza a admirar a la 
+                ingeniosa Lizzy, que se divierte aumentando la mala impresión que cree haber causado en el joven.
+                
+                La llegada de la milicia a la ciudad permite que Elizabeth y el elegante Wickham se conozcan. No tarda en contarle que conoce a Darcy y que éste se portó
+                mal con él. El pomposo Sr. Collins, el primo que heredará la casa familiar cuando muera el Sr. Bennet, llega a hacerles una visita con la intención de 
+                casarse con una de las chicas. Cuando la Sra. Bennet le dice que Jane está a punto de prometerse, se decanta por Elizabeth.
+                
+                El futuro de las dos hermanas depende de otro baile en Netherfield. Lizzy culpa al Sr. Darcy de ser el responsable de la ausencia del Sr. Wickham, 
+                mientras sus hermanas no son todo lo recatadas que deberían. Al día siguiente, Bingley y los suyos se van sin explicaciones, rompiendo el corazón de Jane
+                ante la indignación de Elizabeth. Ésta rechaza al Sr. Collins creando una auténtica crisis familiar, pero se queda atónita cuando su amiga Charlotte 
+                Lucas acepta casarse con el Sr. Collins.
+                
+                Algunos meses después, Elizabeth visita a los recién casados y conoce a la benefactora del Sr. Collins, la arrogante lady Catherine de Bourg, que ha 
+                invitado a dos jóvenes nobles. Uno de ellos es el Sr. Darcy, que deja asombrada a Elizabeth declarándose con pasión y torpeza. Le rechaza y le acusa 
+                de haber destrozado la felicidad de Jane al separarla del Sr. Wickham. Se separan de muy mala manera, pero él le escribe una carta en la que explica 
+                varias cosas, sobre todo, la perfidia de Wickham.
+                
+                De vuelta a casa, Elizabeth intenta intervenir cuando invitan a su joven y alocada hermana Lidia a Brighton donde está destacada la milicia, pero su 
+                padre se ríe de sus temores. Lizzy se siente aliviada cuando sus respetables tíos le piden que les acompañe durante un viaje por el distrito Peak. Se 
+                empeñan en visitar Pemberley, la magnífica propiedad del Sr. Darcy en Derbyshire, y la joven no sabe dónde meterse cuando se encuentran con el Sr. Darcy,
+                 que está encantado de verla.
+                
+                Parece que ambos consiguen limar las asperezas cuando estalla un auténtico escándalo. Lydia se ha escapado con Wickham. La angustia se torna alivio 
+                cuando se casan. Los recién llegados regresan, triunfantes, y Lydia le confía a Lizzy que se han casado gracias al Sr. Darcy. De pronto, cuando quizá 
+                ya es demasiado tarde, Elizabeth comprende lo mucho que le ama. El regreso de Bingley acompañado por Darcy abre la puerta a la esperanza de que la pareja
+                 pueda ver más allá de su orgullo y sus prejuicios hacia un futuro compartido.</sinopsis>
+            <capitulos>
+                <capitulo num_pag_cap="2">
+                    <titulo>Capítulo I</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="2">
+                    <titulo>Capítulo II</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="3">
+                    <titulo>Capítulo III</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="2">
+                    <titulo>Capítulo IV</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>   
+                <capitulo num_pag_cap="3">
+                    <titulo>Capítulo V</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+            </capitulos>
+        </libro>
+        <libro id="L3456" tipo_clase= "didáctico" num_pag_libro="283">
+            <titulo>Aportaciones teóricas y metodológicas a la educación musical. Una selección de autores relevantes.</titulo>
+            <indice>
+                Introducción 11
+                Primera parte
+                Métodos de enseñanza musical. Algunos puntos de contacto, 15
+                1. Jaques- Dalcroze 23
+                2. Justine Bayard Ward 33
+                3. Edgar Willems 43
+                4. Maurice Martenot 55
+                5. Zoltán Kodaly 63
+                6. Carl Orff 71
+                7. Shinichi Suzuki 79
+                8. Enseñanza musical en España 87
+                9. Creación y pedagogía: los compositores van al aula 95
+                Segunda parte
+                Teorías, modelos y métodos en investigación musical. Hacia la recuperación de sus figuras prominentes 115
+                10. Liora Bresler 119
+                11. Patricia Shehan Campbell 133
+                12. David J. Elliot 141
+                13. Paul Fraisse 149
+                14. Howard Gardner 161
+                15. Edqin E. Gordon 173
+                16. Lucy Green 181
+                17. Susan Hallam 189
+                18. David J. Hargreaves 203
+                19. Thomas Adam Regelski 211
+                20. Mary Louise Serafine 231
+                21. John A. Sloboda 231
+                22. Christoper Small 243
+                23. Robert Stake 249
+                24. Keith Swanwick 257
+                25. Peter Webster 267
+                26. Tony Wigram 277
+            </indice>
+            <sinopsis>Las últimas décadas han sido, probablemente, las más productivas en la historia de la educación musical. En su transcurso, hemos sido testigos del 
+                surgimiento de numerosas propuestas metodológicas y teóricas. Este libro, compendio de los escritos de algunos de los pedagogos e investigadores más 
+                relevantes en el ámbito de la educación musical del siglo XX, como Dalcroze, Willems, Orff, Bresler, Hargreaves, Swanwick o Sloboda ofrece una visión 
+                panorámica del legado que hemos recibido y de algunas de las aportaciones más actuales. La obra se organiza en dos grandes apartados: el primero, 
+                dedicado a algunos de los grandes pedagogos musicales del siglo XX y, el segundo, a algunos de los autores que en los últimos años han contribuido, 
+                desde el ámbito de la investigación, a la educación musical. Organizado a partir de capítulos de idéntica estructura, este libro incluye una breve 
+                biografía de cada una de las personalidades seleccionadas; una referencia a sus principales aportaciones teóricas y/o metodológicas; referencias a las 
+                aplicaciones prácticas de cada aportación y, finalmente, un listado con sus aportaciones más significativas.</sinopsis>
+            <capitulos>
+                <capitulo num_pag_cap="8">
+                    <titulo>Métodos de enseñanza musical. Algunos puntos de contacto.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="10">
+                    <titulo>Jaques-Dalcroze.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="10">
+                    <titulo>Justine Bayard Ward.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="12">
+                    <titulo>Edgar Willems.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="8">
+                    <titulo>Maurice Martenot.</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+            </capitulos>
+        </libro>
+        <libro id="L4567" tipo_clase= "novela" num_pag_libro="377">
+            <titulo>Muerte en Santa Rita</titulo>
+            <indice>
+                1 El rumor de la buganvilla
+                2
+                3 La silueta de las palmeras
+                4 El perfume de la lavanda
+                5 El arrullo de las tórtolas
+                6 Los colores del ocaso
+                7 El fragor de las cigarras
+                8 La furia del xaloc
+                9 Los dedos de la aurora
+                10 El sabor del arroz
+                11 El olor de los pinares
+                12 El horizonte del mar
+                13 El fulgor de las olas
+                14 Las lluvias de abril
+                15
+                16 La flor de la mimosa
+                17 Los reflejos del agua
+                18
+                EPÍLOGO
+                Nota de la autora
+                Otros libros de Elia Barceló que también te gustarán
+            </indice>
+            <sinopsis>HAY UN LUGAR EN EL QUE RESIDEN SECRETOS ESCONDIDOS A LO LARGO DE VARIAS DÉCADAS.
+
+                BIENVENIDOS A SANTA RITA. UN NOIR MEDITERRÁNEO DE ELIA BARCELÓ.
+                
+                Estamos en Santa Rita, un antiguo balneario, que luego fue sanatorio y ahora es la casa de una escritora anciana, Sofía, (que escribe novelas de misterio 
+                con un pseudónimo y novela rosa con otro), donde viven unas cuarenta personas de todas las edades apoyándose unos a otros y trabajando juntos, en un 
+                concepto de "comunidad cordial" transgeneracional.
+                
+                La protagonista, Greta, sobrina y traductora de Sofía, llega para quedarse una temporada y, a través de ella, vamos conociendo a los personajes de la 
+                historia: Candy, secretaria y mano derecha de Sofía; Robles, comisario de policía retirado; Nel y su grupo, estudiantes universitarios; Miguel, profesor 
+                de matemáticas ciego; Reme, madre de una mujer maltratada...
+                
+                La llegada de un viejo conocido de Sofía con planes propios para el futuro de la comunidad creará los primeros problemas. Pocos días después de haber 
+                vuelto, el hombre aparece muerto en la alberca de riego. ¿Accidente o asesinato? De hecho, casi todos los habitantes de Santa Rita han tenido ocasión y 
+                no les habrían faltado ganas de hacer desaparecer a Moncho Riquelme.
+                
+                Greta y Robles se involucrarán en la investigación y, sin pretenderlo, irán desvelando más secretos y descubriendo más misterios de lo que pensaban.
+                
+                «¿Y si de verdad había sido asesinato? ¿Quién, en Santa Rita, sería capaz de matar? Y ¿por qué? ¿A quién podía beneficiar la muerte de aquel payaso? 
+                A todos, claro, ese era el problema: que, exceptuando a Sofía, desde el punto de vista de los habitantes de Santa Rita, hombres y mujeres, viejos y 
+                jóvenes, como mejor estaba Moncho era justo como estaba ahora: muerto.»</sinopsis>
+            <capitulos>
+                <capitulo num_pag_cap="6">
+                    <titulo>El rumor de la buganilla</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="28">
+                    <titulo>2</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="16">
+                    <titulo>La silueta de las palmeras</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="19">
+                    <titulo>El perfume de la lavanda</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo num_pag_cap="22">
+                    <titulo>El arrullo de las tórtolas</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+            </capitulos>
+        </libro>
+        <libro id="L5678" tipo_clase= "didáctico" num_pag_libro="309">
+             <titulo>El cerebro del niño explicado a los padres</titulo>
+            <indice>
+                Introducción 13
+                PARTE I 
+                Fundamentos 23
+                    1. Principios para un desarrollo cerebral pleno 25
+                    2. Tu hijo es como árbol 27
+                    3. Disfruta el momento 33
+                    4. El ABC del cerebro para padres 40
+                    5. Equilibrio 50
+                PARTE II
+                Herramientas 57
+                    6. Herramientas para apoyar el desarrollo cerebral 59
+                    7. Paciencia y comprensión 62
+                    8. Empatía 74
+                    9. Reforzar las normas y comportamientos positivos 89
+                    10. Alternativas al castigo 110
+                    11. Poner límites sin dramas 124
+                    12. Comunicación
+                PARTE III
+                Inteligencia emocional 147
+                    13. Educar la inteligencia emocional 149
+                    14. Vínculo 153
+                    15. Confianza 166
+                    16. Crecer sin miedos 181
+                    17. Asertividad 194
+                    18. Sembrar la felicidad 208
+                PARTE IV
+                Potenciar el cerebro intelectual 217
+                19. Desarrollo intelectual 219
+                20. Atención 226
+                21. Memoria 240
+                22. Lenguaje 252
+                23. Inteligencia visual 266
+                24. Autocontrol 275
+                25. Creatividad 286
+                26. Las mejores aplicaciones para niños menores de seis años 300
+                27. Despedida 301
+
+                Bibliografía 307
+            </indice>
+            <sinopsis>Cómo ayudar a tu hijo a desarrollar su potencial intelectual y emocional.
+                Durante los seis primeros años de vida el cerebro infantil tiene un potencial que no volverá a tener. Esto no quiere decir que debamos intentar convertir 
+                a los niños en pequeños genios, porque además de resultar imposible, un cerebro que se desarrolla bajo presión puede perder por el camino parte de su 
+                esencia.
+                Este libro es un manual práctico que sintetiza los conocimientos que la neurociencia ofrece a los padres y educadores, con el fin de que puedan ayudar a 
+                los niños a alcanzar un desarrollo intelectual y emocional pleno.
+                "Indispensable. Una herramienta fundamental para que los padres conozcan y fomenten un desarrollo cerebral equilibrado y para que los profesionales 
+                apoyemos nuestra labor de asesoramiento parental."</sinopsis>
+            <capitulos>
+                <capitulo  num_pag_cap="10">
+                    <titulo>Introducción</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo  num_pag_cap="2">
+                    <titulo>Fundamentos</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo  num_pag_cap="2">
+                    <titulo>Principios para un desarrollo cerebral pleno</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo  num_pag_cap="6">
+                    <titulo>Tu hijo es como un árbol</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+                <capitulo  num_pag_cap="7">
+                    <titulo>Disfruta el momenot</titulo>
+                    <contenido link=""></contenido>
+                </capitulo>
+            </capitulos>
+        </libro>       
+    </Libros>
+    <Revistas>
+        <revista id="R1234" tipo_clase= "otras" num_pag_rev="96"> 
+            <titulo>Eufonía</titulo>
+            <num_rev>95</num_rev>
+            <indice>
+                1. Monografía música e identidades
+                    Música e identidades
+                    Somática, autoaprendizaje y creación
+                    When we were young
+                    La identidad musical en secundaria
+                    La rítmica Jaques-Dalcroze y el hiphop, el placer como motor de aprendizaje
+                    La implementación de musicomovigramas como práctica educativa para la comprensión de problemas sociales
+                    Compositoras en la formación de la identidad
+                2. Actualización y reflexión
+                    La música como transformadora en la identidad de un centro escolar
+                3. Intercambio
+                    Inclusión de la música flamenca en el aula
+                    Acercamiento a la música tradicional con actividades lúdicas centradas en el cambio y la variación
+                4. Evidencias
+                    ¿Qué nos dice la investigación científica?: La metodología de proyectos.
+                    La evidencia en la práctica: La metodología de proyectos: Desahógate con un rap
+                5. Ideas prácticas
+                    En contexto: La actividad instrumental colectiva como experiencia cocurricular. Aportaciones educativas e implicaciones docentes
+                6. Informaciones
+                    Reseña: Presencia y significados de la música en la adolescencia: implicaciones educativas
+                    Encuentros
+            </indice>
+            <secciones_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="10">
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev> 
+                <seccion_rev num_pag_sec="15">
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="5">
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="14">
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="2">
+                    <contenido link="https://www.grao.com/revistas/musica-e-identidades-musicales-73757"></contenido>
+                </seccion_rev>  
+            </secciones_rev>          
+        </revista> 
+        <revista id="R2345" tipo_clase= "corazón" num_pag_rev="">
+            <titulo>¡Hola!</titulo>
+            <num_rev></num_rev>
+            <indice>
+                ACTUALIDAD
+                MODA
+                    Tendencias
+                    Modelos
+                    Noticias
+                    Pasarelas
+                    Complementos
+                BELLEZA
+                    Noticias
+                    Tendencias
+                    Cara y Cuerpo
+                    Peinados
+                    Perder Peso
+                    En Forma
+                LIFESTYLE
+                    Casa
+                    Cocina
+                        Recetas
+                        Noticias
+                        Técnicas de cocina
+                        Comunidad Blogs
+                    Estar bien
+                        Nutrición
+                        Bienestar
+                        Medio ambiente
+                        Psicología
+                        Coaching
+                        Vida Sana
+                        Enfermedades
+                    Padres
+                    Mascotas
+                    Viajes
+                        Destinos
+                        Hoteles
+                    Hola Living
+                CASA REALES
+                    BÉLGICA
+                    DINAMARCA
+                    ESPAÑA
+                    HOLANDA
+                    LIECHTENSTEIN
+                    LUXEMBURGO
+                    MÓNACO
+                    NORUEGA
+                    REINO UNIDO
+                    SUECIA
+                HORÓSCOPO
+                NOVIAS
+                    INSPIRACIÓN NOVIAS
+                    TU BODA ¡HOLA!
+                SHOPPING
+                HOLA-PLAY
+                PODCASTS
+            </indice>
+            <secciones_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.hola.com/actualidad/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="10">
+                    <contenido link="https://www.hola.com/moda/"></contenido>
+                </seccion_rev> 
+                <seccion_rev num_pag_sec="15">
+                    <contenido link="https://www.hola.com/belleza/"></contenido>
+                </seccion_rev>
+                <!--La siguiente NO tiene link porque está por subsección-->
+                <seccion_rev num_pag_sec="5">
+                    <contenido link=""></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="14">
+                    <contenido link="https://www.hola.com/realeza/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="2">
+                    <contenido link="https://www.hola.com/horoscopo/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.hola.com/novias/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.hola.com/seleccion/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.hola.com/tv/"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.hola.com/podcasts/"></contenido>
+                </seccion_rev>  
+            </secciones_rev>    
+        </revista>
+        <revista id="R3456" tipo_clase= "corazón" num_pag_rev="">
+            <titulo>Pronto</titulo>
+            <num_rev>2662</num_rev>
+            <indice>
+                NOTICIAS DEL CORAZÓN
+                    Famosos
+                    Parejas
+                    Realeza
+                    ¿Qué fue de...?
+                    Casas de famosos
+                    Lujos de famosos           
+                COCINA
+                    Trucos
+                    Dietas
+                    Recetas
+                HORÓSCOPO
+                    Compatibilidad entre los signos del zodíaco
+                    Así son las mujere según su signo del zodíaco
+                    Los niños según su signo del zodíaco
+                BELLEZA
+                    Cuidado del cuerpo
+                    Cuidado facial
+                    Cabello
+                    Maquillaje
+                VIDA SANA
+                    Bienestar
+                    Nutrición
+                    Terapias naturales
+                    Vida saludable
+                VIDAS INTERESANTES
+                    Grandes mujeres de la historia
+                TELEVISIÓN
+                    Realities
+                    Series
+            </indice>
+            <secciones_rev>
+                <seccion_rev num_pag_sec="50" > 
+                    <contenido link="https://www.pronto.es/noticias-del-corazon"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="10">
+                    <contenido link="https://www.pronto.es/pronto-cocina"></contenido>
+                </seccion_rev> 
+                <seccion_rev num_pag_sec="15">
+                    <contenido link="https://www.pronto.es/horoscopo"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="5">
+                    <contenido link="https://www.pronto.es/belleza"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="14">
+                    <contenido link="https://www.pronto.es/vida-sana"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="2">
+                    <contenido link="https://www.pronto.es/vidas-interesantes"></contenido>
+                </seccion_rev>
+                <seccion_rev num_pag_sec="2">
+                    <contenido link="https://www.pronto.es/pronto-tv"></contenido>
+                </seccion_rev>    
+            </secciones_rev>
+        </revista>
+    </Revistas>
+    <Periodicos>
+        <periodico id="P1234" tipo_clase= "nacional" fecha_publi="11/05/2023">  
+            <titulo>Diario de Mallorca</titulo>
+            <indice>
+                LOCAL
+                    Mallorca
+                    Diario de Palma
+                    Part Forana
+                    Municipios
+                MÁS NOTICIAS
+                    Nacional
+                    Internacional
+                    Sociedad
+                    Ciencia
+                    Medio Ambiente
+                    Tendencias 21
+                    Educar es todo
+                    Especiales DM
+                DEPORTES
+                    Fútbol
+                    RCD Mallorca
+                    Atlético Baleares
+                    Rafa Nadal
+                    Baloncesto
+                    F1
+                    MotoGP
+                    Resultados
+                ECONOMÍA
+                    Activos
+                    Finanzas personales
+                    Diario de Negocios
+                    Empleo
+                    Vivienda
+                    Renta
+                OPINIÓN
+                    Matías Vallés
+                    Pilar Garcés
+                    Daniel Capó
+                    José Carlos Llop
+                    Jorge Dezcallar
+                    Llama la antención
+                    Cartas de los lectores
+                    Humor
+                CASO ABIERTO
+                    Tribunales
+                    Investigación
+                    Sucesos en Mallorca
+                    Desaparecidos
+                    Violencia machista
+                    Delitos informáticos
+                CULTURA
+                    Bellver en abril
+                    abril
+                    FND
+                    Cine
+                    Agenda
+                    Música
+                    Teatrp
+                OCIO
+                    Cine
+                    Televisión
+                    Planes
+                    Agenda
+                    Gastronomía
+                    Hostelería
+                VIDA Y ESTILO
+                    Salud
+                    Tecnología
+                    Moda
+                    Sombras y Pliegues
+                    Gente
+                    Decoración
+                    Neomotor
+                    Compramejor
+                    Buscando respuestas
+                ELECCIONES 2023
+                    Elecciones Autonómicas
+                    Elecciones Municipales
+                    Elecciones Consell
+                    Cómo votar
+            </indice>
+            <secciones>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Ana Lucas"></art>
+                    <art autor="Xavier Peris"></art>
+                    <art autor="EFE"></art>
+                    <contenido link="https://www.diariodemallorca.es/local/"></contenido>  
+                </seccion_p>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Ernesto Ekaizer"></art>
+                    <art autor="Arceli Saavedra"></art>
+                    <art autor="Paloma Esteban"></art> 
+                    <contenido link="https://www.diariodemallorca.es/mallorca/"></contenido>  
+                </seccion_p>
+                <seccion_p tipo_sec="deportes">
+                    <art autor="Sebastià Adrover"></art>
+                    <art autor="Jaume A."></art>
+                    <art autor="B. Vich"></art>
+                    <contenido link="https://www.diariodemallorca.es/deportes/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="económica">
+                    <art autor="Carlos Ponce"></art>
+                    <art autor="Paula Blanco"></art>
+                    <art autor="Gabriel Santamarina"></art>
+                    <contenido link="https://www.diariodemallorca.es/economia/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="opinión">
+                    <art autor="Matías Vallés"></art>
+                    <art autor="Particia Gómez"></art>
+                    <art autor="Jaume Pla Forteza"></art>
+                    <contenido link="https://www.diariodemallorca.es/opinion/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                    <art autor="Vanesa Lozano"></art>
+                    <art autor="Xavier Peris"></art>
+                    <art autor="Marina Falcó"></art>
+                    <contenido link="https://www.diariodemallorca.es/sucesos/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                    <art autor="Raquel Galán"></art>
+                    <art autor="Desirée de Fez"></art>
+                    <art autor="Lola López"></art>
+                    <contenido link="https://www.diariodemallorca.es/cultura/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                    <art autor="Yotele"></art>
+                    <art autor="Yotele"></art>
+                    <art autor="Manel Riu"></art>
+                    <contenido link="https://www.diariodemallorca.es/ocio/"></contenido>
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                    <art autor="Rebeca Gil"></art>
+                    <art autor="Alba Prada Estévez"></art>
+                    <art autor="Abril Lozano"></art>
+                    <contenido link="https://www.diariodemallorca.es/vida-y-estilo/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Duna Márquez"></art>
+                    <art autor="Guillem Pòrcel"></art>
+                    <art autor="Miquel Adrover"></art>
+                    <contenido link="https://www.diariodemallorca.es/elecciones/"></contenido>      
+                </seccion_p>
+            </secciones>
+        </periodico>
+        <periodico id="P2345" tipo_clase= "nacional" fecha_publi="11/05/2023">
+            <titulo>Última hora</titulo>
+            <indice>
+                NOTICIAS
+                    Todo NOTICIAS
+                    Local
+                    Part Forana
+                    Palma
+                    Elecciones 28M
+                    Cultura
+                    Nacional
+                    Internacional
+                    El Económico
+                    Sociedad
+                    Comunidades
+                    Ruedas
+                    Tecnología y Videojuegos
+                    Sorteos y Loterías
+                    Virales
+                    Podcasts
+                    Fotos
+                DEPORTES
+                    Todo DEPORTES
+                    Real Mallorca
+                    Atlético Baleares
+                    Fútbol
+                    Tenis
+                    Motor
+                    Baloncesto
+                    Palma Futsal
+                    Otros deportes
+                    Clasificaciones y resultados
+                    Fotos
+                SUCESOS
+                    Todo SUCESOS
+                    Fotos
+                    Programa Ley y Ordem
+                OPINION
+                    Toda LA OPINIÓN
+                    Editorial
+                    Tribuna
+                    Autores
+                    Tira Cómica
+                XALOC
+                    Todo XALOC
+                    Viajar
+                    Tendencias
+                    Fora Vila
+                    Gastronomía
+                    Dudas y respuestas
+                    Historia
+                    Salud y Belleza
+                    Cajón de sastre
+                PARTICIPA
+                    Todo PARTICIPA
+                    Denuncias
+                    Cartas lectores
+                    Encuestas
+                    Protagonistas
+                OCIO
+                    Todo OCIO
+                    Cartelera
+                    Teatro y danza
+                    Conciertos
+                    Actos institucionales
+                    Ocio familiar
+                    Otros eventos
+                    Exposiciones
+                COMER Y BEBER
+                    Todo COMER Y BEBER
+                    Restaurantes
+                    Bares
+                VIPS
+                    Todo VIPS
+                    Quiosco Rosa
+                    Televisión
+                    Zona VIP
+                    Esteban Mercer
+                    Fotos
+                GUÍA ÚTIL
+                    Toda LA GUÍA ÚTIL
+                    Emergencias
+                    Localizador de empresas
+                    Arte
+                    Motor
+                    Transportes
+                    Turismo
+                    Enseñanza
+                    Publicidad y diseño
+                    Agricultura
+                MONOGRÁFICOS
+                    Todos los MONOGRÁFICOS
+                    Centros Privados y Concertados. Enseñanza y educación
+                    Binter NightRun Mallorca-Ultima Hora 2023
+                    Políticas de Igualdad 2023
+                    Final de Legislatura 2023
+                    Municipalismo e inversiones 2023
+                    Programas y servicios sociales para Mallorca 2023
+                    Diseño, decoración y terrazas 2023
+                    eMallorca Experience Week 2023
+                    Fitur 2023
+                    B|Style Sgop
+                    Connect'Up 2022-2023
+                    III Cocinas y Cocineros con alma
+                    Agentes digitaliazdores: Kit digital
+                    Mallorca en Fires 2023
+                    Salud
+                    Siurells de Plata de Última Hora
+                    Monográficos anteriores
+                SERVICIOS
+                    El tiempo
+                    Horóscopo
+                    Webcams
+                    Hemeroteca
+                    Sorteos y Loterías
+                    Puntos de Venta
+                    Fotogalerías
+                CLUB DEL SUSCRIPTOR
+                    Inicio
+                    Club
+                    Suscríbete
+                    Ocio
+                    Promociones
+                    Descuentos
+                    Sorteos
+                    Reportajes
+                    Noticias
+            </indice>
+            <secciones>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Juana J. Serra"></art>
+                    <art autor="Alicia Mateos"></art>
+                    <art autor="J.L.Ruiz Collado"></art>
+                    <contenido link="https://www.ultimahora.es/noticias.html"></contenido>  
+                </seccion_p>
+                <seccion_p tipo_sec="deportes">
+                    <art autor="Tolo Jaume"></art>
+                    <art autor="Jaime Moreda"></art>
+                    <art autor="Fernando Fernández"></art> 
+                    <contenido link="https://www.ultimahora.es/deportes.html"></contenido>  
+                </seccion_p>
+                <seccion_p tipo_sec="deportes">
+                    <art autor="Sebastià Adrover"></art>
+                    <art autor="Jaume A."></art>
+                    <art autor="B. Vich"></art>
+                    <contenido link="https://www.diariodemallorca.es/deportes/"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Julio Bastida"></art>
+                    <art autor="Juan P. Martínez"></art>
+                    <art autor="Guillermo Esteban"></art>
+                    <contenido link="https://www.ultimahora.es/sucesos.html"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="opinión">
+                    <art autor="Enrique Arias Vegas"></art>
+                    <art autor="Francisca Estarellas"></art>
+                    <art autor="Josep M. Llauradó"></art>
+                    <contenido link="https://www.ultimahora.es/opinion.html"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="nacional">
+                    <art autor="Gori Vicens"></art>
+                    <art autor="Lydia Torres"></art>
+                    <art autor="M. Lluc García"></art>
+                    <contenido link="https://www.ultimahora.es/xaloc.html"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="opinión">
+                    <art autor="Montse"></art>
+                    <art autor="Vidal"></art>
+                    <art autor="Joana"></art>
+                    <contenido link="https://www.ultimahora.es/participa.html"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                    <art autor="Es Gremi"></art>
+                    <art autor="Teatre del Mar"></art>
+                    <art autor="Teatre Principal"></art>
+                    <contenido link="https://www.ultimahora.es/ocio.html"></contenido>
+                </seccion_p>
+                <seccion_p tipo_sec="local">
+                        <art autor="Santi Taura"></art>
+                        <art autor="Adrián Quetglas"></art>
+                        <art autor="Andreu Genesta"></art>
+                        <contenido link="https://www.ultimahora.es/comer-beber.html"></contenido>   
+                </seccion_p>
+                <seccion_p tipo_sec="nacional">
+                        <art autor="Julián Aguirre"></art>
+                        <art autor="Urko Urbieta"></art>
+                        <art autor="Redacción digital"></art>
+                        <contenido link="https://www.ultimahora.es/vips.html"></contenido>      
+                </seccion_p>
+                <!--No se especifica autor ya que en el periódico no lo pone-->
+                <seccion_p tipo_sec="local">
+                    <art autor=""></art>
+                    <art autor=""></art>
+                    <art autor=""></art>
+                    <contenido link="https://www.ultimahora.es/guia_util.html"></contenido>      
+                </seccion_p>
+                <!--No se especifica autor ya que en el periódico no lo pone-->
+                <seccion_p tipo_sec="opinión">
+                    <art autor=""></art>
+                    <art autor=""></art>
+                    <art autor=""></art>
+                    <contenido link="https://www.ultimahora.es/monograficos.html"></contenido>      
+                </seccion_p>
+                <!--Al ser el apartado de tiempo no tiene artículos-->
+                <seccion_p tipo_sec="nacional">
+                    <contenido link="https://www.ultimahora.es/el-tiempo.html"></contenido>      
+                </seccion_p>
+                <!--No contiene artículos-->
+                <seccion_p tipo_sec="local">
+                <contenido link="https://www.clubdelsuscriptor.com/"></contenido>      
+                </seccion_p>
+            </secciones>        
+        </periodico>
+    </Periodicos>
+</Biblioteca>

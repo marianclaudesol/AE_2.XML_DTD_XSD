@@ -1,0 +1,159 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Biblioteca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Libros" type="LibrosType"/>
+        <xs:element name="Revistas" type="RevistasType"/>
+        <xs:element name="Periodicos" type="PeriodicosType"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="LibrosType">
+    <xs:sequence>
+	  <xs:element name="libro" minOccurs="1" maxOccurs="unbounded">
+		<xs:complexType>
+		  <xs:sequence>
+			<xs:element name="titulo" type="xs:string"/>
+			<xs:element name="indice" type="xs:string"/>
+			<xs:element name="sinopsis" type="xs:string"/>
+			<xs:element name="capitulos">
+			  <xs:complexType>
+				<xs:sequence>
+				  <xs:element name="capitulo" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+					  <xs:sequence>
+						<xs:element name="titulo" type="xs:string"/>
+						  <xs:element name="contenido">
+						  <xs:complexType>
+							<xs:attribute name="link" type="xs:string" use="required"/>
+						  </xs:complexType>
+						</xs:element>
+					  </xs:sequence>
+					  <xs:attribute name="num_pag_cap" type="xs:string" use="required"/>
+					</xs:complexType>
+				  </xs:element>
+				</xs:sequence>
+			  </xs:complexType>
+			</xs:element>
+		  </xs:sequence>
+		  <xs:attribute name="id" type="xs:ID" use="required"/>
+		  <xs:attribute name="tipo_clase" use="required">
+			<xs:simpleType>
+			  <xs:restriction base="xs:string">
+				<xs:enumeration value="novela"/>
+				<xs:enumeration value="infantil"/>
+				<xs:enumeration value="didáctico"/>
+			  </xs:restriction>
+			</xs:simpleType>
+		  </xs:attribute>
+		  <xs:attribute name="num_pag_libro" type="xs:string" use="optional"/>
+		</xs:complexType>
+	  </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RevistasType">
+    <xs:sequence>
+	  <xs:element name="revista" minOccurs="1" maxOccurs="unbounded">
+		<xs:complexType>
+		  <xs:sequence>
+			<xs:element name="titulo" type="xs:string"/>
+			<xs:element name="num_rev" type="xs:string"/>
+			<xs:element name="indice" type="xs:string"/>
+			<xs:element name="secciones_rev">
+			  <xs:complexType>
+				<xs:sequence>
+				  <xs:element name="seccion_rev" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+					  <xs:sequence>
+						<xs:element name="contenido">
+						  <xs:complexType>
+							<xs:attribute name="link" type="xs:string" use="required"/>
+						  </xs:complexType>
+						</xs:element>
+					  </xs:sequence>
+					  <xs:attribute name="num_pag_sec" type="xs:string" use="required"/>
+					</xs:complexType>
+				  </xs:element>
+				</xs:sequence>
+			  </xs:complexType>
+			</xs:element>
+		  </xs:sequence>
+		  <xs:attribute name="id" type="xs:ID" use="required"/>
+		  <xs:attribute name="tipo_clase" use="required">
+			<xs:simpleType>
+			  <xs:restriction base="xs:string">
+				<xs:enumeration value="informática"/>
+				<xs:enumeration value="corazón"/>
+				<xs:enumeration value="coches"/>
+				<xs:enumeration value="investigación"/>
+				<xs:enumeration value="otras"/>
+			  </xs:restriction>
+			</xs:simpleType>
+		  </xs:attribute>
+		  <xs:attribute name="num_pag_rev" type="xs:string" use="optional"/>
+		</xs:complexType>
+	  </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="PeriodicosType">
+    <xs:sequence>
+	  <xs:element name="periodico" minOccurs="1" maxOccurs="unbounded">
+		<xs:complexType>
+		  <xs:sequence>
+			<xs:element name="titulo" type="xs:string"/>
+			<xs:element name="indice" type="xs:string"/>
+			<xs:element name="secciones">
+			  <xs:complexType>
+				<xs:sequence>
+				  <xs:element name="seccion_p" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+					  <xs:sequence>
+						<xs:element name="art" minOccurs="0" maxOccurs="unbounded">
+						  <xs:complexType>
+							<xs:attribute name="autor" type="xs:string" use="optional"/>
+						  </xs:complexType>
+						</xs:element>
+						<xs:element name="contenido">
+						  <xs:complexType>
+							<xs:attribute name="link" type="xs:string" use="required"/>
+						  </xs:complexType>
+						</xs:element>
+					  </xs:sequence>
+					  <xs:attribute name="tipo_sec" use="required">
+						<xs:simpleType>
+						  <xs:restriction base="xs:string">
+							<xs:enumeration value="económica"/>
+							<xs:enumeration value="opinión"/>
+							<xs:enumeration value="deportes"/>
+							<xs:enumeration value="nacional"/>
+							<xs:enumeration value="internacional"/>
+							<xs:enumeration value="local"/>
+						  </xs:restriction>
+						</xs:simpleType>
+					  </xs:attribute>
+					</xs:complexType>
+				  </xs:element>
+				</xs:sequence>
+			  </xs:complexType>
+			</xs:element>
+		  </xs:sequence>
+		  <xs:attribute name="id" type="xs:ID" use="required"/>
+		  <xs:attribute name="tipo_clase" use="required">
+			<xs:simpleType>
+			  <xs:restriction base="xs:string">
+				<xs:enumeration value="nacional"/>
+				<xs:enumeration value="internacional"/>
+			  </xs:restriction>
+			</xs:simpleType>
+		  </xs:attribute>
+		  <xs:attribute name="fecha_publi" type="xs:string" use="required"/>
+		</xs:complexType>
+	  </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>
