@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+    <!-- El nodo raíz se llama biblioteca -->
+    <element name="biblioteca">
+        <complexType>
+            <sequence>
+                 <!-- El nodo libros -->
+                <element name="libros">
+                    <complexType>
+                        <sequence>
+                            <element name="libro" minOccurs="1" maxOccurs="unbounded">
+                              <complexType>
+                                <sequence>
+                                 <element name="titulo"  type="string"/>
+                                 <element name="indice"  type="string"/>
+                                 <element name="sinopsis" type="string"/>
+                                 <element name="capitulos">
+                                    <complexType>
+                                        <sequence>
+                                            <element name="capitulo" minOccurs="1" maxOccurs="unbounded">
+                                                <complexType>
+                                                    <sequence>
+                                                     <element name="titulo" type="string"/>
+                                                     <element name="contenido" type="string"/>
+                                                    </sequence>
+                                                    <attribute name="n_pag" type="integer"/>
+                                                </complexType>
+                                            </element>
+                                        </sequence>
+                                    </complexType>
+                                 </element>
+                                </sequence>
+                                <attribute name="id" type="string"/>
+                                <attribute name="pag" type="integer"/>
+                                <attribute name="tipo_clase" type="string"/>
+                              </complexType>
+                            </element>
+                        </sequence>   
+                    </complexType>
+                </element>
+                <!-- El nodo revistas -->
+                <element name="revistas" minOccurs="1" maxOccurs="unbounded">
+                    <complexType>
+                        <sequence>
+                            <element name="revista" minOccurs="1" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+                                      <element name="titulo" type="string"/>
+                                      <element name="indice" type="string"/>
+                                      <element name="secciones">
+                                        <complexType>
+                                            <sequence>
+                                                <element name="seccion" minOccurs="1" maxOccurs="unbounded">
+                                                    <complexType>
+                                                        <sequence>
+                                                           <element name="titulo" type="string"/>
+                                                           <element name="contenido" type="string"/>
+                                                        </sequence>
+                                                         <attribute name="pag" type="integer"/>
+                                                    </complexType>
+                                                </element>
+                                            </sequence>
+                                        </complexType>
+                                      </element>
+                                    </sequence>  
+                                    <attribute name="id" type="string"/>
+                                    <attribute name="tipo_clase" type="string"/> 
+                                    <attribute name="fech_pu" type="date"/>      
+                                </complexType>
+                            </element>
+                        </sequence>
+                    </complexType>
+                </element>
+                <!-- El nodo periodicos -->
+                <element name="periodicos" minOccurs="1" maxOccurs="unbounded">
+                    <complexType>
+                        <sequence>
+                            <element name="periodico" minOccurs="1" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+                                        <element name="titulo" type="string"/>
+                                        <element name="indice" type="string"/>
+                                        <element name="secciones_p">
+                                            <complexType>
+                                                <sequence>
+                                                    <element name="seccion_p" minOccurs="1" maxOccurs="unbounded">
+                                                        <complexType>
+                                                            <sequence>
+                                                                <element name="articulos" minOccurs="1" maxOccurs="unbounded">
+                                                                    <complexType>
+                                                                        <sequence>
+                                                                            <element name="articulo" minOccurs="1" maxOccurs="unbounded">
+                                                                                <complexType>
+                                                                                   <sequence>
+                                                                                      <element name="autor" type="string"/>
+                                                                                      <element name="contenido" type="string"/>
+                                                                                   </sequence>
+                                                                                </complexType>
+                                                                            </element>
+                                                                        </sequence>
+                                                                    </complexType>
+                                                                </element>
+                                                            </sequence>
+                                                             <attribute name="tipo_sec" type="string"/> 
+                                                        </complexType>
+                                                    </element>
+                                                </sequence>                          
+                                            </complexType>
+                                        </element>
+                                    </sequence>
+                                    <attribute name="id" type="string"/>
+                                    <attribute name="tipo_clase" type="string"/> 
+                                    <attribute name="fech_pu" type="date"/>  
+                                </complexType>                      
+                            </element>      
+                        </sequence>
+                    </complexType>
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

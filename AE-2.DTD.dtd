@@ -1,0 +1,63 @@
+<!ELEMENT biblioteca (libros, revistas, periodicos)>
+<!-- Definimos los elementos de libros -->
+<!ELEMENT libros (libro+)>
+<!ELEMENT libro (titulo, indice, sinopsis, capitulos)>
+
+<!-- Definimos los atributos del libro -->
+<!ATTLIST libro id ID #REQUIRED>
+<!ATTLIST libro pag CDATA #REQUIRED>
+<!ATTLIST libro tipo_clase (novela | infantil | didáctico) #REQUIRED>
+
+<!-- Definimos los elementos de libro -->
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT indice (#PCDATA)>
+<!ELEMENT sinopsis (#PCDATA)>
+<!ELEMENT capitulos (capitulo+)>
+
+<!-- Definimos los atributos y elementos de capitulo -->
+<!ELEMENT capitulo (titulo, contenido)>
+
+<!-- Definimos los atributos -->
+<!ATTLIST capitulo pag CDATA #REQUIRED>
+
+
+<!-- Definimos los elementos de revistas -->
+<!ELEMENT revistas (revista+)>
+<!ELEMENT revista (titulo, indice, secciones)>
+
+<!-- Definimos los atributos y los elementos de revista -->
+<!ATTLIST revista id ID #REQUIRED>
+<!ATTLIST revista tipo_clase (informatica | corazon | coches | investigacion | otras) #REQUIRED>
+<!ATTLIST revista fech_pu CDATA #REQUIRED>
+
+<!ELEMENT secciones (seccion+)>
+<!ELEMENT seccion (titulo, contenido)>
+
+<!-- Definimos los atributos y elementos de seccion -->
+<!ATTLIST seccion pag CDATA #REQUIRED>
+
+<!ELEMENT contenido (#PCDATA)>
+
+<!ELEMENT periodicos (periodico+)>
+<!ELEMENT periodico (titulo, indice, secciones_p+)>
+
+<!-- Definimos los atributos de periodico -->
+<!ATTLIST periodico id ID #REQUIRED>
+<!ATTLIST periodico tipo_clase (nacional | internacional) #REQUIRED>
+<!ATTLIST periodico fech_pu CDATA #REQUIRED>
+
+
+<!-- Definimos los atributos de periodico -->
+
+<!ELEMENT secciones_p (seccion_p+)>
+
+<!-- Definimos los atributos y elemetos de seccion -->
+<!ELEMENT seccion_p (articulos+)>
+<!ATTLIST seccion_p tipo_sec (economica | opinion | deportes | internacional | nacional) #REQUIRED>
+
+<!ELEMENT articulos (articulo+)>
+
+
+<!-- Definimos los elemetos de articulo -->
+<!ELEMENT articulo (autor, contenido)>
+<!ELEMENT autor (#PCDATA)>

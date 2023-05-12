@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="AE-2.XSD.xsd">
+ <!-- Añadimos los libros -->
+  <libros>
+    <libro id="L0001" pag="276" tipo_clase="infantil">
+      <titulo>Las mil y 1 noches</titulo>
+        <indice>
+         ÍNDICE
+         Páginas
+         Dedicatoria de la obra
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         2
+         PRÓLOGO DE E. GÓMEZ CARRILLO
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         9
+         NOTA DE LOS EDITORES
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         17
+         UNA PALABRA DEL TRADUCTOR A SUS AMIGOS
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         25
+         Dedicatoria del primer tomo
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         31
+         INVOCACIÓN PRELIMINAR
+         ¡AQUELLO QUE QUIERA ALAH, EL CLEMENTE, EL MISERICORDIOSO!
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         33
+         INTRODUCCIÓN
+         HISTORIA DEL REY SCHAHRIAR Y DE SU HERMANO EL REY SCHAHZAMAN
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         37-51
+         en que se explica el origen de los cuentos y se intercala la
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+         FÁBULA DEL ASNO, EL BUEY Y EL LABRADOR
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         46-50
+         LOS CUENTOS
+         HISTORIA DEL MERCADER Y EL EFRIT
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         53-70
+ 	
+         Comienza en la primera noche y termina al principiar la 3ª. Se intercalan tres cuentos:
+                                                                                                                                                                                                                                                                                                                                                                                                
+ 	       CUENTO DEL PRIMER JEQUE
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         56-62
+ 	
+         CUENTO DEL SEGUNDO JEQUE
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         62-67
+ 	
+         CUENTO DEL TERCER JEQUE
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         67-69
+         HISTORIA DEL PESCADOR Y EL EFRIT
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         71-127
+ 	
+         Empieza en la 3ª noche y termina a mediados de la 9.ª — Comprende:
+                                                                                                                                                                                                                                                                                                                                                                                                	
+         HISTORIA DEL VISIR DEL REY YUNÁN Y DEL MÉDICO RUYÁN
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         79-112
+ 	
+         la cual comprende á sn vez:
+                                                                                                                                                                                                                                                                                                                                                                                                
+         EL HALCÓN DEL REY SINDABAD
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         87-39
+ 	
+         HISTORIA DEL PRÍNCIPE Y LA VAMPIRO
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         90-92
+ 	
+         y la
+                                                                                                                                                                                                                                                                                                                                                                                                	
+         HISTORIA DEL JOVEN ENCANTADO Y DE LOS PECES
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         112-127
+         HISTORIA DEL MANDADERO Y LAS TRES DONCELLAS
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         129-261
+ 	
+         Empieza á mediados de ta 9.ª noche y termina á mitad de la 18.ª—Comprende varios cuentos:
+                                                                                                                                                                                                                                                                                                                                                                                                
+ 	       HISTORIA DEL PRIMER SAALUK
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         155-170
+ 	
+         HISTORIA DEL SEGUNDO SAALUK
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         170-201
+  	
+         HISTORIA DEL TERCER SAALUK
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         201-227
+ 	
+         HISTORIA DE ZOBEIDA, LA MAYOR DE LAS JÓVENES
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         229-244
+ 	
+         HISTORIA DE AMINA, LA SEGUNDA JOVEN
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         245-258
+         HISTORIA DE LA MUJER DESPEDAZADA, DE LAS TRES MANZANAS Y DEL NEGRO RIHÁN
+         ................................................................................................................................................................................................................................................................................................................................................................................................
+         263-276
+ 	
+         Empieza á mediados de la 18.ª noche y termina á mitad de la 19.ª
+                                                                                                                                                                                                                                                                                                                                                                                            f
+        </indice>
+        <sinopsis>
+         Sinopsis
+         Scheherezade y Shahriar (1880), de Ferdinand Keller.
+         El primer cuento, que sirve de marco a todos los demás, trata de la historia del rey Shahriar y de su hermano Shahzamán. Shahriar se entera de que la esposa de su hermano tenía como amante a un esclavo. Más tarde descubre que también su esposa le es infiel con un esclavo, incluso a la vista de otros esclavos y siervas, por lo que decide abandonar su reino hasta encontrar a alguien a quien le haya ocurrido una desgracia mayor. Al descubrir que un poderoso genio es engañado de forma todavía más astuta, concluye que todas las mujeres son iguales y regresa a su palacio, donde después de vengarse de la reina, toma la decisión de casarse cada noche con una virgen y decapitarla al día siguiente, para evitar la posibilidad de volver a ser engañado. Cuando el visir, que es el encargado de conseguir las esposas, ya no puede encontrar ninguna, su hija Sherezade se ofrece con la intención de acabar con la crueldad del rey. La primera noche, Shahrazade logra cautivar la atención de Shahriar contándole una historia que interrumpe antes del alba, con la promesa de contar algo más sorprendente la noche siguiente, si el rey le conserva la vida. La estratagema se repite durante mil y una noches, en el transcurso de las cuales se cuentan los relatos que componen el libro.
+
+         Los relatos incluyen cuentos, historias de amor tanto trágicas como cómicas, poemas, parodias y leyendas religiosas musulmanas. Algunas de las historias más famosas, como Aladino y la lámpara maravillosa, Ali Babá y los cuarenta ladrones y Simbad el marino, fueron añadidas en el siglo xviii por Antoine Galland. Las dos primeras fueron transmitidas oralmente por el maronita sirio Hanna Diyab3​4​ en París.5​ En cuanto a los cuentos de Simbad, se trata de un conjunto independiente de historias, algunas de las cuales ya se contaban en el Egipto antiguo, como la historia del náufrago6​.
+
+         En muchas historias se representa a genios, espíritus fantásticos, magos y lugares legendarios que se mezclan con personas y lugares reales; el histórico califa Harún al-Rashid aparece en muchas historias.
+        </sinopsis>
+        <capitulos>
+          <capitulo n_pag="33">
+            <titulo>¡AQUELLO QUE QUIERA ALAH!</titulo>
+            <contenido>
+             https://es.wikisource.org/wiki/El_libro_de_las_mil_noches_y_una_noche/Tomo_I/Invocaci%C3%B3n_preliminar
+            </contenido>
+          </capitulo>
+          <capitulo n_pag="20">
+            <titulo>HISTORIA DEL REY SCHAHRIAR Y DE SU HERMANO El REY SCHAHZAMAN</titulo>
+            <contenido>
+             https://es.wikisource.org/wiki/Historia_del_rey_Schahriar_y_su_hermano_el_rey_Schahzaman
+            </contenido>
+          </capitulo>
+          <capitulo n_pag="4">
+           <titulo>Fábula del asno, el buey y el labrador</titulo>
+            <contenido>
+             https://es.wikisource.org/wiki/F%C3%A1bula_del_asno,_el_buey_y_el_labrador
+            </contenido>
+          </capitulo>
+        </capitulos>
+    </libro>
+
+    <libro id="L0002" pag="139" tipo_clase="novela">
+      <titulo>El Domador de Pulgas</titulo>
+      <indice> 
+       Prólogo
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       3
+       El domador de pulgas
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       7
+       Dos gotas de sudor
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       13
+       La colonia agrícola
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       19
+       La pulga que abortó
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       27
+       El capítulo de las decepciones
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       35
+       La pulga que asesinó
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       41
+       Este capítulo trata del amor en las pulgas
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       47
+       El filósofo sexual y la pulga puta
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       55
+       Las pulgas dadas a los asuntos de ultratumba
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       65
+       Pulgas de afición alcohólica
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       75
+       El alto de una pulga que estaba sola
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       83
+       La pulga buena
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       89
+       La pulga artista
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       95
+       El caudillo y el temperamento ovejuno de las pulgas
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       101
+       Comedia entre pulgas regias
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       109
+       La pulga lírica
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       117
+       Este capítulo es indispensable en la historia de las pulgas
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       123
+       El domador
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       129
+       El sabio
+       ................................................................................................................................................................................................................................................................................................................................................................................................
+       139
+      </indice>
+      <sinopsis>
+      Sinopsis: En El domador de pulgas hallaremos un juego mental que nos propone el autor para mirar el mundo de otra forma, como en un espejo donde las pulgas somos nosotros mismos y sus grotescas vidas se parecen a las de cualquier prójimo. O las pulgas nos copian a nosotros o somos como pulgas que se creen muy sublimes.
+      </sinopsis>
+      <capitulos>
+        <capitulo n_pag="4">
+         <titulo>Prólogo</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/Pr%C3%B3logo_(Domador_de_Pulgas)
+          </contenido>
+        </capitulo>
+        <capitulo n_pag="6">
+         <titulo>El domador de pulgas</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/El_domador_de_pulgas_(Domador_de_pulgas)
+          </contenido>
+        </capitulo>
+        <capitulo n_pag="6">
+         <titulo>Dos gotas de sudor</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/Dos_gotas_de_sudor
+          </contenido>
+        </capitulo>
+      </capitulos>
+    </libro>
+    
+    <libro id="L0003" pag="704" tipo_clase="didáctico">
+      <titulo>El origen de las especies</titulo>
+      <indice>
+       Índice
+       Introducción
+       Capítulo I: La variación en estado doméstico
+       Capítulo II: La variación en la naturaleza
+       Capítulo III: La lucha por la existencia
+       Capítulo IV: La selección natural o la supervivencia de los más aptos
+       Capítulo V: Leyes de la variación
+       Capítulo VI: Dificultades de la teoría
+       Capítulo VII: Objeciones a la teoría de la selección natural
+       Capítulo VIII: Instinto
+       Capítulo IX: Hibridismo
+       Capítulo X: De la imperfección de los registros geológicos
+       Capítulo XI: De la sucesión geológica de los seres orgánicos
+       Capítulo XII: Distribución geográfica
+       Capítulo XIII: Distribución geográfica (Continuación)
+       Capítulo XIV: Afinidades mutuas de los seres orgánicos
+       Capítulo XV: Recapitulación y conclusión
+      </indice>
+      <sinopsis>
+        Sinopsis de El origen de las especies: La obra que puso las bases de la biología moderna. 
+        Con esta obra, Charles Darwin presentó su teoría de la evolución mediante la selección natural que, 
+       pasados más de cien años, continúa siendo la base del estudio de la naturaleza para la biología actual.
+      </sinopsis>
+      <capitulos>
+        <capitulo n_pag="1">
+         <titulo>Introduccion</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/El_origen_de_las_especies_(Zulueta_tr.)/Introducci%C3%B3n
+          </contenido>
+        </capitulo>
+        <capitulo n_pag="27">
+         <titulo>Capítulo I</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/El_origen_de_las_especies_(Zulueta_tr.)/Cap%C3%ADtulo_I
+          </contenido>
+        </capitulo>
+        <capitulo n_pag="15">
+         <titulo>Capitulo II</titulo>
+          <contenido>
+           https://es.wikisource.org/wiki/El_origen_de_las_especies_(Zulueta_tr.)/Cap%C3%ADtulo_II
+          </contenido>
+        </capitulo>
+      </capitulos>
+    </libro>
+  </libros>
+  <!-- Añadimos las revistas -->
+  <revistas>
+    <revista id="R1001" tipo_clase="informatica" fech_pu="2023-05-10">
+      <titulo>Computer Hoy</titulo>
+      <indice>
+       Coche eléctrico
+       Elon Musk
+       Desafío visual
+       Inteligencia Artificial
+       Nokia
+      </indice>
+      <secciones>
+        <seccion pag="1">
+         <titulo>coche electrico</titulo>
+         <contenido>
+           https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908
+         </contenido>
+        </seccion>
+        <seccion pag="2">
+          <titulo>Elon Musk</titulo>
+          <contenido>
+           https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150
+          </contenido>
+        </seccion>
+        <seccion pag="2">
+          <titulo>Desafio visual</titulo>
+          <contenido>
+           https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778
+          </contenido>
+        </seccion>
+        <seccion pag="3">
+          <titulo>Inteligencia Artificial</titulo>
+          <contenido>
+           https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200
+          </contenido>
+        </seccion>
+        <seccion pag="1">
+          <titulo>Nokia</titulo>
+          <contenido>
+           https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876
+          </contenido>
+        </seccion>
+      </secciones>
+    </revista>
+    <revista id="R1002" tipo_clase="corazon" fech_pu="2023-05-10">
+     <titulo>Semana</titulo>
+     <indice>
+       Corazón
+        Celebrities
+       Casas Reales
+        Familia Real Española 
+       Televisión
+        Estilo y Vida
+       Moda
+        El vestidor de Letizia
+       Belleza
+       Salud
+       Horóscopo
+        Rituales
+       Cocina
+        Recetas
+        Nutrición
+        Restaurantes
+       Vídeos
+       +SEMANA
+      </indice>
+      <secciones>
+        <seccion pag="2">
+          <titulo>Celebrities</titulo>
+          <contenido>
+           https://www.semana.es/corazon/celebrities/
+          </contenido>
+        </seccion>
+        <seccion pag="1">
+          <titulo>Familia Real Española</titulo>
+          <contenido>
+           https://www.semana.es/casas-reales/familia-real-espanola/
+          </contenido>
+        </seccion>
+        <seccion pag="3">
+          <titulo>Television</titulo>
+          <contenido>
+           https://www.semana.es/television/
+          </contenido>
+        </seccion>
+        <seccion pag="3">
+          <titulo>Estilo y Vida</titulo>
+          <contenido>
+           https://www.semana.es/estiloyvida/
+          </contenido>
+        </seccion>
+     </secciones>
+    </revista>
+    <revista id="R1003" tipo_clase="coches" fech_pu="2023-05-10">
+      <titulo>km77</titulo>
+      <indice>
+       Movilidad
+       Pruebas
+       Precios
+       Marcas de Coches
+       Reportajes
+      </indice>
+      <secciones>
+        <seccion pag="2">
+          <titulo>Movilidad</titulo>
+          <contenido>
+           https://www.autofacil.es/movilidad/
+          </contenido>
+        </seccion>
+        <seccion pag="4"> 
+          <titulo>Pruebas</titulo>
+          <contenido>
+           https://www.autofacil.es/pruebas/
+          </contenido>
+        </seccion>
+        <seccion pag="2">
+          <titulo>Precios</titulo>
+          <contenido>
+           https://cochesnuevos.autofacil.es/
+          </contenido>
+        </seccion>
+      </secciones>
+    </revista>
+  </revistas>
+  <!-- Añadimos los periodicos  -->
+  <periodicos>
+    <periodico id="P2001" tipo_clase="nacional" fech_pu="2023-10-05">
+      <titulo>EL PAÍS</titulo>
+      <indice>
+       Nacional
+       Internacional
+       Opinión
+       28M
+       Actualidad
+      </indice>
+      <secciones_p>
+        <seccion_p tipo_sec="nacional">
+          <articulos>
+            <articulo>
+              <autor>C.E. CUÉ /E.SÁNCHEZ /J.A. RODRÍGUEZ</autor>
+              <contenido>
+               https://elpais.com/espana/2023-05-10/el-gobierno-aprobara-medidas-extraordinarias-contra-la-sequia-persistente-en-visperas-de-la-campana-del-28-m.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>ANTONIO MAQUEDA</autor>
+              <contenido>
+               https://elpais.com/economia/2023-05-10/el-banco-de-espana-cuestiona-la-reforma-de-las-pensiones-y-la-ley-de-vivienda.html
+              </contenido>
+            </articulo>
+          </articulos>
+        </seccion_p>
+        <seccion_p tipo_sec="internacional">
+          <articulos>
+            <articulo>
+              <autor>MANUEL ANSEDE</autor>
+              <contenido>
+               https://elpais.com/ciencia/2023-05-10/el-primer-pangenoma-humano-revela-120-millones-de-letras-mas-en-el-adn.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>NUÑO DOMÍNGUEZ</autor>
+              <contenido>
+               https://elpais.com/salud-y-bienestar/2023-05-10/una-vacuna-de-arn-logra-un-primer-exito-contra-el-cancer-de-pancreas-el-tumor-mas-letal.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>MARÍA ANTONIA SÁNCHEZ-VALLEJO</autor>
+              <contenido>
+               https://elpais.com/internacional/2023-05-10/george-santos-el-congresista-republicano-que-se-invento-su-curriculum-imputado-por-fraude-y-blanqueo-de-dinero.html
+              </contenido>
+            </articulo>
+          </articulos>
+        </seccion_p>
+        <seccion_p tipo_sec="opinion">
+          <articulos>
+            <articulo>
+              <autor>MANUEL JABOIS</autor>
+              <contenido>
+               https://elpais.com/opinion/2023-05-10/amenaza-y-favorito.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>SERGIO DEL MOLINO</autor>
+              <contenido>
+               https://elpais.com/opinion/2023-05-10/viajes-subvencionados-para-jovenes-con-trenes-que-no-existen.html
+              </contenido>
+            </articulo>
+          </articulos>
+        </seccion_p>
+      </secciones_p>
+    </periodico>
+    <periodico id="P2002" tipo_clase="internacional" fech_pu="2023-05-10">
+      <titulo>Europa press</titulo>
+      <indice>
+       Es noticia
+       EStados Unidos
+       Donald Trump
+       Abusos Sexuales
+       Rusia
+       Ucrania
+       Drones
+      </indice>
+      <secciones_p>
+        <seccion_p tipo_sec="nacional">
+          <articulos>
+            <articulo>
+              <autor>C.E. CUÉ /E.SÁNCHEZ /J.A. RODRÍGUEZ</autor>
+              <contenido>
+               https://elpais.com/espana/2023-05-10/el-gobierno-aprobara-medidas-extraordinarias-contra-la-sequia-persistente-en-visperas-de-la-campana-del-28-m.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>ANTONIO MAQUEDA</autor>
+              <contenido>
+               https://elpais.com/economia/2023-05-10/el-banco-de-espana-cuestiona-la-reforma-de-las-pensiones-y-la-ley-de-vivienda.html
+              </contenido>
+            </articulo>
+          </articulos>
+        </seccion_p>
+        <seccion_p tipo_sec="internacional">
+          <articulos>
+            <articulo>
+              <autor>Aaron Schwartz</autor>
+              <contenido>
+               https://www.europapress.es/internacional/noticia-detenido-congresista-estadounidense-george-santos-presunto-fraude-malversacion-fondos-20230510165039.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>El Universal-Archivo</autor>
+              <contenido>
+               https://www.europapress.es/internacional/noticia-tribunal-mexicano-libera-socio-fundador-cartel-sinaloa-guero-palma-20230510145249.html
+              </contenido>
+            </articulo>
+            <articulo>
+              <autor>Bernd von Jutrczenka/dpa</autor>
+              <contenido>
+                https://www.europapress.es/internacional/noticia-trump-rechaza-condena-abuso-sexual-no-conozco-absolutamente-nada-caza-brujas-20230510065421.html
+              </contenido>
+            </articulo>
+          </articulos>
+        </seccion_p>
+      </secciones_p>
+    </periodico>
+  </periodicos>
+</biblioteca>
