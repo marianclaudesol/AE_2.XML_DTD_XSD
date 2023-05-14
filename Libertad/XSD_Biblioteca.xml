@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="XSD_Biblioteca.xsd">
+    <libros>
+        <libro id="L0001" tipo_clase="Novela" num_paginas="382">
+            <titulo>LOS PILARES DE LA TIERRA</titulo>
+            <indice></indice>
+            <sinopsis></sinopsis>
+            <capitulos>
+                <capitulo num_paginas="120">
+                    <titulo>Capitulo I</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro1/capitulo1" />
+                </capitulo>
+                <capitulo num_paginas="140">
+                    <titulo>Capitulo II</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro1/capitulo2" />
+                </capitulo>
+                <capitulo num_paginas="120">
+                    <titulo>Capitulo III</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro1/capitulo3" />
+                </capitulo>
+            </capitulos>
+          
+        </libro>
+        <libro id="L0002" tipo_clase="Infantil" num_paginas="10">
+            <titulo>EEL POLLO PEPE</titulo>
+            <indice></indice>
+            <sinopsis></sinopsis>
+            <capitulos>
+                <capitulo num_paginas="7">
+                    <titulo>Que comió el pollo Pepe para crecer tanto?</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro2/capitulo1" />
+                </capitulo>
+                <capitulo num_paginas="1">
+                    <titulo>Canción del pollo Pepe</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro2/capitulo2" />
+                </capitulo>
+            </capitulos>
+           
+        </libro>
+        <libro id="L0003" tipo_clase="Didactico" num_paginas="42">
+            <titulo>EDUCANDO CON MAGIA</titulo>
+            <indice></indice>
+            <sinopsis></sinopsis>
+            <capitulos>
+                <capitulo num_paginas="10">
+                    <titulo>I. Llevar La Magia a la Escuela</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro3/capitulo1" />
+                </capitulo>
+                <capitulo num_paginas="15">
+                    <titulo>II. Juegos de Magia en el Aula</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro3/capitulo2" />
+                </capitulo>
+                <capitulo num_paginas="15">
+                    <titulo>III. Para saber más sobre Magia</titulo>
+                    <contenido enlace_inf="http://biblioteca.com/libro3/capitulo3" />
+                </capitulo>
+            </capitulos>
+            
+        </libro>
+    </libros>
+    <revistas>
+        <revista id="R0001" tipo_clase="Informatica" num_paginas="89">
+            <titulo>REVISTA DE TECNOLOGÍA E INFORMÁTICA HISTÓRICA</titulo>
+            <num_revista>123</num_revista>
+            <indice_contenido></indice_contenido>
+            <secciones_revista>
+                <seccion_rev num_paginas="22">
+                    <contenido enlace_inf="http://biblioteca.com/revista1/seccion1" />
+                </seccion_rev>
+                <seccion_rev num_paginas="23">
+                    <contenido enlace_inf="http://biblioteca.com/revista1/seccion2" />
+                </seccion_rev>
+                <seccion_rev num_paginas="22">
+                    <contenido enlace_inf="http://biblioteca.com/revista1/seccion3" />
+                </seccion_rev>
+                 <seccion_rev num_paginas="22">
+                    <contenido enlace_inf="http://biblioteca.com/revista1/seccion3" />
+                </seccion_rev>
+            </secciones_revista>
+        </revista>
+        <revista id="R0002" tipo_clase="Corazon" num_paginas="24">
+            <titulo>DIEZ MINUTOS</titulo>
+            <num_revista>223</num_revista>
+            <indice_contenido></indice_contenido>
+            <secciones_revista>
+                <seccion_rev num_paginas="8">
+                    <contenido enlace_inf="http://biblioteca.com/revista2/seccion1" />
+                </seccion_rev>
+                <seccion_rev num_paginas="8">
+                    <contenido enlace_inf="http://biblioteca.com/revista2/seccion2" />
+                </seccion_rev>
+                <seccion_rev num_paginas="8">
+                    <contenido enlace_inf="http://biblioteca.com/revista2/seccion3" />
+                </seccion_rev>
+            </secciones_revista>
+        </revista>
+        <revista id="R0003" tipo_clase="Coches" num_paginas="30">
+            <titulo>MOTORLIFE MAGAZINE</titulo>
+            <num_revista>323</num_revista>
+            <indice_contenido></indice_contenido>
+            <secciones_revista>
+                <seccion_rev num_paginas="10">
+                    <contenido enlace_inf="http://biblioteca.com/revista3/seccion1" />
+                </seccion_rev>
+                <seccion_rev num_paginas="10">
+                    <contenido enlace_inf="http://biblioteca.com/revista3/seccion2" />
+                </seccion_rev>
+                <seccion_rev num_paginas="10">
+                    <contenido enlace_inf="http://biblioteca.com/revista3/seccion3" />
+                </seccion_rev>
+            </secciones_revista>
+        </revista>
+        <revista id="R0004" tipo_clase="Investigacion" num_paginas="15">
+            <titulo>LOS NUEVOS MUNDOS</titulo>
+            <num_revista>423</num_revista>
+            <indice_contenido></indice_contenido>
+            <secciones_revista>
+                <seccion_rev num_paginas="7">
+                    <contenido enlace_inf="http://biblioteca.com/revista4/seccion1" />
+                </seccion_rev>
+                <seccion_rev num_paginas="8">
+                    <contenido enlace_inf="http://biblioteca.com/revista4/seccion2" />
+                </seccion_rev>
+            </secciones_revista>
+        </revista>
+        <revista id="R0005" tipo_clase="otros" num_paginas="42">
+            <titulo>UTILISSIMA</titulo>
+            <num_revista>523</num_revista>
+            <indice_contenido></indice_contenido>
+            <secciones_revista>
+                <seccion_rev num_paginas="15">
+                    <contenido enlace_inf="http://biblioteca.com/revista5/seccion1" />
+                </seccion_rev>
+                <seccion_rev num_paginas="12">
+                    <contenido enlace_inf="http://biblioteca.com/revista5/seccion2" />
+                </seccion_rev>
+                <seccion_rev num_paginas="15">
+                    <contenido enlace_inf="http://biblioteca.com/revista5/seccion3" />
+                </seccion_rev>
+            </secciones_revista>
+        </revista>
+    </revistas>
+    <periodicos>
+        <periodico id="P0001" tipo_clase="Nacional" fecha_publi="10.05.23">
+            <indice></indice>
+            <secciones_periodico>
+                <seccion_per tipo_seccion="Economica">
+                    <articulos>
+                        <articulo autor="Daniel Lacalle">
+                            <contenido enlace_inf="http://biblioteca.com/periodico1/articulo1" />
+                        </articulo>
+                        <articulo autor="Adam Smith">
+                            <contenido enlace_inf="http://biblioteca.com/periodico1/articulo2" />
+                        </articulo>
+                    </articulos>
+                </seccion_per>
+            </secciones_periodico>
+        </periodico>
+         <periodico id="P0002" tipo_clase="Internacional" fecha_publi="01.05.23">
+            <indice></indice>
+            <secciones_periodico>
+                <seccion_per tipo_seccion="Deportes">
+                    <articulos>
+                        <articulo autor="Jose Antonio Abellan">
+                            <contenido enlace_inf="http://biblioteca.com/periodico2/articulo1" />
+                        </articulo>
+                        <articulo autor="Manolo Lama">
+                            <contenido enlace_inf="http://biblioteca.com/periodico2/articulo2" />
+                        </articulo>
+                        <articulo autor="Juanma Castaño">
+                            <contenido enlace_inf="http://biblioteca.com/periodico3/articulo3" />
+                        </articulo>
+                        <articulo autor="Jose Félix Diaz">
+                            <contenido enlace_inf="http://biblioteca.com/periodico4/articulo4" />
+                        </articulo>
+                    </articulos>
+                </seccion_per>
+            </secciones_periodico>
+        </periodico>
+         <periodico id="P0003" tipo_clase="Nacional" fecha_publi="12.05.23">
+            <indice></indice>
+            <secciones_periodico>
+                <seccion_per tipo_seccion="Opinion">
+                    <articulos>
+                        <articulo autor="Juan José Millás">
+                            <contenido enlace_inf="http://biblioteca.com/periodico3/articulo1" />
+                        </articulo>
+                    </articulos>
+                </seccion_per>
+            </secciones_periodico>
+        </periodico>
+    </periodicos>
+</biblioteca>

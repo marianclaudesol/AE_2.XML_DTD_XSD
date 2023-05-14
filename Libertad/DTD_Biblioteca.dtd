@@ -1,0 +1,49 @@
+    <!ELEMENT biblioteca (libros, revistas,periodicos)>
+    <!ELEMENT libros (libro+)>
+    <!ELEMENT libro (titulo, capitulos, indice, sinopsis)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT capitulos (capitulo+)>
+    <!ELEMENT capitulo (titulo, contenido)>
+    <!ELEMENT contenido (#PCDATA)>
+    <!ELEMENT indice (#PCDATA)>
+    <!ELEMENT sinopsis (#PCDATA)>
+    
+    <!-- Definimos los atributos de libro-->
+    <!ATTLIST libro id ID #REQUIRED>
+    <!ATTLIST libro tipo_clase (Novela | Infantil | Didactico) #REQUIRED>
+    <!ATTLIST libro num_paginas CDATA #REQUIRED>
+    <!ATTLIST capitulo num_paginas CDATA #REQUIRED>
+    <!ATTLIST contenido enlace_inf CDATA #REQUIRED>
+
+    <!-- Definimos los elementos de revista-->
+    <!ELEMENT revistas (revista+)>
+    <!ELEMENT revista (titulo, num_revista, indice_contenido, secciones_revista)>
+    <!ELEMENT num_revista (#PCDATA)>
+    <!ELEMENT indice_contenido (#PCDATA)>
+    <!ELEMENT secciones_revista (seccion_rev+)>
+    <!ELEMENT seccion_rev (contenido)>
+   
+    
+    <!-- Definimos los atributos de revista-->
+    <!ATTLIST revista id ID #REQUIRED>
+    <!ATTLIST revista tipo_clase (Informatica | Corazon | Coches | Investigacion | otros) #REQUIRED>
+    <!ATTLIST revista num_paginas CDATA #REQUIRED>
+    <!ATTLIST seccion_rev num_paginas CDATA #REQUIRED>
+    <!ATTLIST contenido enlace_inf CDATA #REQUIRED>
+
+      <!-- Definimos los elementos de periodico-->
+    <!ELEMENT periodicos (periodico+)>
+    <!ELEMENT periodico (secciones_periodico, indice)>
+    <!ELEMENT secciones_periodico (seccion_per)>
+    <!ELEMENT seccion_per (articulos)>
+    <!ELEMENT articulos (articulo+)>
+    <!ELEMENT articulo (contenido)>
+   
+    
+    <!-- Definimos los atributos de revista-->
+    <!ATTLIST periodico id ID #REQUIRED>
+    <!ATTLIST periodico tipo_clase (Nacional | Internacional) #REQUIRED>
+    <!ATTLIST periodico fecha_publi CDATA #REQUIRED>
+    <!ATTLIST seccion_per tipo_sección (Economica | Deportes | Opinion)  #REQUIRED>
+    <!ATTLIST contenido enlace_inf CDATA #REQUIRED>
+    <!ATTLIST articulo autor CDATA #REQUIRED>
