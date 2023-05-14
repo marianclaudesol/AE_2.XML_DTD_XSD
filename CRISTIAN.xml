@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE biblioteca SYSTEM "cristian.dtd">-->
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation= "cristian.xsd">
+    <nombre>Biblioteca Nacional</nombre>
+    <libros>
+        <libro id="L1000" tipo_clase="novela" numero_paginas_libro="500">
+            <titulo_libro>El misterio del faro</titulo_libro>
+            <capitulos>
+                    <capitulo numero_paginas_capitulo="100">
+                        <titulo_capitulo>La llegada al faro</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                    <capitulo numero_paginas_capitulo="200">
+                        <titulo_capitulo>El extraño comportamiento del farero</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                    <capitulo numero_paginas_capitulo="100">
+                        <titulo_capitulo>El descubrimiento del cadáver</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+            </capitulos>
+            <indice_libro>
+                    Índice
+                    Capítulo 1: La llegada al faro.
+                    Capítulo 2: El extraño comportamiento del farero.
+                    Capítulo 3: El descubrimiento del cadáver.
+                    Sinopsis      
+            </indice_libro>
+            <sinopsis>
+                    Un grupo de amigos deciden pasar sus vacaciones en una cabaña cerca de un faro en la costa. 
+                    Todo parece ir bien hasta que descubren el cadáver de un hombre en la playa. A medida que investigan e
+                    l misterio, descubren que el farero tiene un comportamiento extraño y que hay algo más detrás de la muerte 
+                    del hombre. ¿Podrán resolver el misterio antes de que sea demasiado tarde?
+            </sinopsis>    
+        </libro>
+        <libro id="L2000" tipo_clase="infantil" numero_paginas_libro="50">
+                <titulo_libro> La aventura de los animales en el bosque</titulo_libro>
+                <capitulos>
+                    <capitulo numero_paginas_capitulo="5">
+                        <titulo_capitulo>El encuentro con el mapache</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                    <capitulo numero_paginas_capitulo="5">
+                        <titulo_capitulo>La búsqueda del tesoro</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                </capitulos>
+                <indice_libro>
+                    Índice
+                    Capítulo 1: El encuentro con el mapache.
+                    Capítulo 2: La búsqueda del tesoro.
+                    Sinopsis
+                </indice_libro>
+                <sinopsis> Un grupo de animales deciden aventurarse en el bosque para encontrar un tesoro escondido. 
+                    En su camino se encuentran con varios obstáculos y personajes interesantes como el mapache y la ardilla. 
+                    ¿Podrán encontrar el tesoro y regresar a casa a tiempo para la fiesta sorpresa que les espera?
+                </sinopsis>
+        </libro>
+        <libro id="L3000" tipo_clase="didactico" numero_paginas_libro="300">
+                <titulo_libro> Aprende a programar con Python</titulo_libro>
+                <capitulos>
+                    <capitulo numero_paginas_capitulo="5">
+                        <titulo_capitulo>Introducción a Python</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                    <capitulo numero_paginas_capitulo="5">
+                        <titulo_capitulo>Variables y tipos de datos.</titulo_capitulo>
+                        <contenido_capitulo link="URL"></contenido_capitulo>
+                    </capitulo>
+                </capitulos>
+                    <indice_libro>
+                    Índice
+                    Capítulo 1: Introducción a Python.
+                    Capítulo 2: Variables y tipos de datos.
+                    Sinopsis
+                    </indice_libro>
+                    
+                    <sinopsis>Este libro es una guía completa para aprender a programar con Python. Desde los conceptos básicos
+                     hasta la programación orientada a objetos, este libro cubre todo lo que necesitas saber para empezar a programar. 
+                     Cada capítulo incluye ejemplos de código y ejercicios para que puedas practicar lo que has aprendido. 
+                     Estás listo para empezar a programar?
+                    </sinopsis>
+        </libro>     
+    </libros>
+
+    <revistas>
+        <revista id="R1000" tipo_clase="informatica" numero_paginas_revista="60">
+                <titulo_revista>Tech Today</titulo_revista>
+                <numero_revista>254</numero_revista>
+                <indice_revista>
+                    Sección 1: Noticias de tecnología.
+                    Sección 2: Análisis de productos.
+                    Sección 3: Tutoriales y guías.
+                </indice_revista>
+                <secciones_revista>
+                    <seccion numero_paginas_seccion="6">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="6">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="6">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                </secciones_revista>
+            </revista>
+            <revista id="R2000" tipo_clase="corazon" numero_paginas_revista="5">
+                <titulo_revista>Corazón de Estrellas</titulo_revista>
+                <numero_revista>12</numero_revista>
+                <indice_revista>
+                Sección 1: Noticias de celebridades.
+                Sección 2: Entrevistas exclusivas.
+                </indice_revista>
+                <secciones_revista>
+                    <seccion numero_paginas_seccion="1">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="1">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                </secciones_revista>
+            </revista>
+            <revista id="R3000" tipo_clase="coches" numero_paginas_revista="50">
+                <titulo_revista>Motor world</titulo_revista>
+                <numero_revista>54</numero_revista>
+                <indice_revista>
+                Sección 1: Noticias de la industria automotriz.
+                Sección 2: Análisis de coches nuevos.
+                </indice_revista>
+                <secciones_revista>
+                    <seccion numero_paginas_seccion="5">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="5">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                </secciones_revista>
+            </revista>
+            <revista id="R4000" tipo_clase="investigacion" numero_paginas_revista="80">
+                <titulo_revista>Investigación y descubrimiento</titulo_revista>
+                <numero_revista>87</numero_revista>
+                <indice_revista>
+                Sección 1: Investigaciones científicas recientes.
+                Sección 2: Entrevistas con investigadores.
+                </indice_revista>
+                <secciones_revista>
+                    <seccion numero_paginas_seccion="9">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="9">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                </secciones_revista>
+            </revista>
+            <revista id="R5000" tipo_clase="otras" numero_paginas_revista="30">
+                <titulo_revista>Creatividad y Arte</titulo_revista>
+                <numero_revista>93</numero_revista>
+                <indice_revista>
+                Sección 1: Entrevistas con artistas.
+                Sección 2: Consejos y técnicas de arte.
+                </indice_revista>
+                <secciones_revista>
+                    <seccion numero_paginas_seccion="4">
+                        <contenido link="URL"></contenido>
+                    </seccion>
+                    <seccion numero_paginas_seccion="4">
+                        <contenido link="URL"></contenido>
+                    </seccion >
+                </secciones_revista>
+            </revista>        
+    </revistas>
+
+    <periodicos> 
+        <periodico id="P1000" tipo_clase="nacional" fecha_publicacion="2009">
+            <titulo>Nacional</titulo>
+            <secciones tipo_seccion_periodico="economia">
+                <articulos>
+                    <articulo autor="Javier"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="opinion"> 
+                <articulos>
+                    <articulo autor="Alba"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="deportes">
+                <articulos>
+                    <articulo autor="Ignacio"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="nacional">
+                <articulos>
+                    <articulo autor="Lucía"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="internacional">
+                <articulos>
+                    <articulo autor="Roberto"/>
+                </articulos>
+            </secciones>
+            <indice> Economía
+                        Javier
+                     Opinión
+                        Alba
+                     Deportes
+                        Ignacio
+                     Nacional
+                        Lucía
+                     Internacional
+                        Roberto
+             </indice>
+            <contenido_periodico link="URL"></contenido_periodico>
+        </periodico>
+        <periodico id="P2000" tipo_clase="internacional" fecha_publicacion="1995">
+            <titulo>Internacional</titulo>
+            <secciones tipo_seccion_periodico="economia">
+                <articulos>
+                    <articulo autor="Luna"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="opinion">
+                <articulos>
+                    <articulo autor="Jose"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="deportes">
+                <articulos>
+                    <articulo autor="Sandra"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="nacional">
+                <articulos>
+                    <articulo autor="Luis"/>
+                </articulos>
+            </secciones>
+            <secciones tipo_seccion_periodico="internacional">
+                <articulos>
+                    <articulo autor="Daniela"/>
+                </articulos>
+            </secciones>
+            <indice> 
+            Economía
+            Luna
+            Opinión
+            José
+            Deportes
+            Sandra
+            Nacional
+            Luis
+            Internacional
+            Daniela
+            </indice>
+            <contenido_periodico link="URL"></contenido_periodico> 
+        </periodico>
+    </periodicos>
+</biblioteca>
+       
